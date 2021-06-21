@@ -1,0 +1,6 @@
+use_frameworks!
+target 'mauroPODLab_Tests' do
+  pod 'mauroPODLab', :path => '../'
+  
+  
+end
