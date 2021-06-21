@@ -1,0 +1,22 @@
+{
+  "name": "mauroPODLab",
+  "version": "0.1.0",
+  "summary": "A short description of mauroPODLab.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mauro Taylor/mauroPODLab",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mauro Taylor": "maurox902@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mauro Taylor/mauroPODLab.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "mauroPODLab/Classes/**/*"
+}

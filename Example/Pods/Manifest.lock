@@ -1,0 +1,16 @@
+PODS:
+  - mauroPODLab (0.1.0)
+
+DEPENDENCIES:
+  - mauroPODLab (from `../`)
+
+EXTERNAL SOURCES:
+  mauroPODLab:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mauroPODLab: cb7cd4e2579659eb60d52931064596cdad318bcd
+
+PODFILE CHECKSUM: 5e7e49f6e6dbd9ad2fea0d41e400748876d34932
+
+COCOAPODS: 1.10.1

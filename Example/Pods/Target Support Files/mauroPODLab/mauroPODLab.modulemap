@@ -1,0 +1,6 @@
+framework module mauroPODLab {
+  umbrella header "mauroPODLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
